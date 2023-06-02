@@ -5,7 +5,6 @@ git_services:
   repos:
   - redhat-appstudio/o11y
   - redhat-appstudio/book
-  - redhat-appstudio/build-definitions
   - redhat-appstudio/e2e-tests
   - redhat-appstudio/infra-deployments
   #- renovatebot/renovate
