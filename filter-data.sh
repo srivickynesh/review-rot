@@ -10,7 +10,7 @@ authors='[
 jq --argjson authors "${authors}" -r '[
     .[] | select(
         ([.user] | inside($authors)) or
-        (.url | contains("/enterprise-contract/")) or
-        (.title | test("enterprise.contract"; "i"))
+        (.url | contains("/o11y/")) or
+        (.title | test("o11y"; "i"))
     )
 ]'
