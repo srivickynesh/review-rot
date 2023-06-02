@@ -3,17 +3,7 @@ arguments:
 git_services:
 - host: github.com
   repos:
-  - enterprise-contract/.github
-  - enterprise-contract/ec-cli
-  - enterprise-contract/ec-cookbook
-  - enterprise-contract/ec-policies
-  - enterprise-contract/enterprise-contract-controller
-  - enterprise-contract/golden-container
-  - enterprise-contract/enterprise-contract.github.io
-  - enterprise-contract/hacks
-  - enterprise-contract/infra-deployments-ci
-  - enterprise-contract/tekton-catalog
-  - redhat-appstudio/docs.stonesoup.io
+  - redhat-appstudio/o11y
   - redhat-appstudio/book
   - redhat-appstudio/build-definitions
   - redhat-appstudio/e2e-tests
