@@ -3,7 +3,14 @@ set -euo pipefail
 
 authors='[
   "srivickynesh",
-  "avi-biton"
+  "avi-biton",
+  "yftacherzog",
+  "Kousalya1998",
+  "Omeramsc",
+  "ShakedAviv50313",
+  "hmariset",
+  "eisraeli",
+  "gbenhaim"
 ]'
 
 # Assumes data from stdin!
