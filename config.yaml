@@ -9,6 +9,5 @@ git_services:
   - redhat-appstudio/e2e-tests
   - redhat-appstudio/infra-deployments
   #- renovatebot/renovate
-  - tektoncd/chains
-  token: "${SECRET_TOKEN}"
+  token: "${GITHUB_TOKEN}"
   type: github
