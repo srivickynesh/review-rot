@@ -7,6 +7,7 @@ git_services:
   - redhat-appstudio/book
   - redhat-appstudio/e2e-tests
   - redhat-appstudio/infra-deployments
+  - redhat-appstudio/segment-bridge
   #- renovatebot/renovate
   token: "${GITHUB_TOKEN}"
   type: github
